@@ -3,4 +3,4 @@
 
 ### Ingrantes:
 
-*Nataly Vidal Realpe, *
+*Nataly Vidal Realpe, ...*
