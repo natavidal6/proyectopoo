@@ -22,6 +22,8 @@ siguientes procesos:
 * Calcular el promedio de ventas por departamento.
 * Determinar el artículo de mayor venta en el almacén.
 
+***
 ### Ingrantes:
 
 *Nataly Vidal Realpe y Angie Nataly Gomez Gomez*
+***
