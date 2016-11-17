@@ -1,4 +1,4 @@
-# Pryecto final de POO
+# proyectopoo
 Industria Moderna S. A. le encarga diseñar un algoritmo que refleje las ventas por departamento (totales por departamento); para ello se cuenta con los siguientes datos de entrada: código de departamento, nombre del departamento, código de artículo, monto de la venta.
 
 El almacén cuenta con 5 departamentos y cada departamento con 10 artículos.
